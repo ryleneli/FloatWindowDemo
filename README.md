@@ -4,8 +4,12 @@
 https://blog.csdn.net/guolin_blog/article/details/8689140
 
 在其基础上做了一点小小的改动，包括悬浮窗和悬浮窗_1两个floatwindow，支持floatwindow在拖动过程中，floatwindow_1可以自由在floatwindow左右两侧动态显示。
-![test]https://github.com/ryleneli/FloatWindowDemo/blob/master/screenshots/Screenshot_20191204_234620_com.example.floatwindowdemo.jpg
-![test]https://github.com/ryleneli/FloatWindowDemo/blob/master/screenshots/Screenshot_20191204_234629_com.example.floatwindowdemo.jpg
-![test]https://github.com/ryleneli/FloatWindowDemo/blob/master/screenshots/Screenshot_20191204_234640_com.example.floatwindowdemo.jpg
-![test]https://github.com/ryleneli/FloatWindowDemo/blob/master/screenshots/Screenshot_20191204_234647_com.example.floatwindowdemo.jpg
-![test]https://github.com/ryleneli/FloatWindowDemo/blob/master/screenshots/Screenshot_20191204_234655_com.example.floatwindowdemo.jpg
+![test](https://github.com/ryleneli/FloatWindowDemo/blob/master/screenshots/Screenshot_20191204_234620_com.example.floatwindowdemo.jpg)
+
+![test](https://github.com/ryleneli/FloatWindowDemo/blob/master/screenshots/Screenshot_20191204_234629_com.example.floatwindowdemo.jpg)
+
+![test](https://github.com/ryleneli/FloatWindowDemo/blob/master/screenshots/Screenshot_20191204_234640_com.example.floatwindowdemo.jpg)
+
+![test](https://github.com/ryleneli/FloatWindowDemo/blob/master/screenshots/Screenshot_20191204_234647_com.example.floatwindowdemo.jpg)
+
+![test](https://github.com/ryleneli/FloatWindowDemo/blob/master/screenshots/Screenshot_20191204_234655_com.example.floatwindowdemo.jpg)

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff">
+
+    <Button
+        android:id="@+id/start_float_window"
+        android:layout_width="120pt"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20pt"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:text="Start_Service"
+        android:textColor="#ffffff"/>
+    <Button
+        android:id="@+id/stop_float_window"
+        android:layout_width="120pt"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20pt"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:text="Stop_Service"
+        android:textColor="#ffffff"/>
+
+</LinearLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="48dp"
+    android:layout_height="80dp"
+    android:background="#445a78"
+    android:id="@+id/view_floatwindow"
+    >
+    <RelativeLayout
+        android:layout_width="48dp"
+        android:layout_height="38dp"
+        android:layout_alignParentBottom="true"
+        >
+    <ImageView
+        android:id="@+id/pangxie_floatwindow"
+        android:layout_width="48dp"
+        android:layout_height="38dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ic_pangxie"
+        />
+    <TextView
+        android:id="@+id/time_floatwindow"
+        android:layout_marginTop="19dp"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="7dp"
+        android:textColor="#000000"
+        />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/pp1"
+        android:layout_width="8dp"
+        android:layout_height="8dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/rounded_view"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:visibility="gone"
+android:alpha="0"
+        />
+    <ImageView
+        android:id="@+id/pp2"
+        android:layout_width="8dp"
+        android:layout_height="8dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/rounded_view"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"
+        android:alpha="0"
+        />
+
+</RelativeLayout>
